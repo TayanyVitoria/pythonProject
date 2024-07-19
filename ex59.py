@@ -11,3 +11,4 @@ while contador <= 10:
     termos+=razão
     contador += 1
 print('ACABOU!!')
+#ex v2.0
