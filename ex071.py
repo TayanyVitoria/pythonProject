@@ -1,0 +1,8 @@
+brasileirao = ('Botafogo', 'Fortaleza', 'Flamengo', 'Palmeiras', 'São Paulo', 'Cruzeiro', 'Bahia', 'Atlético-PR', 'Atlético-MG', 'Vasco', 'Bragantino', 'Juventude', 'Grêmio', 'Criciúma', 'Internacional', 'Vitória', 'Corintians', 'Fluminence', 'Cuiabá', 'Atlético-GO')
+print(f'Lista de times: {brasileirao}')
+print('-'*300)
+print(f'cincos primeiros times são: {brasileirao[0:5]}')
+print('-'*300)
+print(f'Os 4 últimos times são: {brasileirao[-4]}')
+print('-'*300)
+print(f'times em ordem alfabetica: {sorted(brasileirao)}')

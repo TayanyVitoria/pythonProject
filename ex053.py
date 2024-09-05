@@ -9,7 +9,7 @@ for p in range(1, 6):
         if peso > maior:
             maior = peso
             if peso < menor:
-                menor =peso
+                menor = peso
 print('O maior peso foi: {}Kg'.format(maior))
 print('o menor peso é: {}Kg'.format(menor))
 

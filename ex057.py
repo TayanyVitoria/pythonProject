@@ -19,8 +19,8 @@ while r != 5:
             soma = n1 + n2
             print('A soma: {} + {} = {}'.format(n1, n2, soma))
     elif r == 2:
-            multiplicação= n1 * n2
-            print('A multiplicação: {} x {} = {}'.format(n1, n2, multiplicação))
+            multiplicacao = n1 * n2
+            print('A multiplicação: {} x {} = {}'.format(n1, n2, multiplicacao))
     elif r == 3:
          if n1 > n2:
                 print('Maior:{}\nMenor:{}'.format(n1, n2))
