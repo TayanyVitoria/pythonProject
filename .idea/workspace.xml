@@ -4,27 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe9e167-c41f-4cca-9af9-86cdef2eddfa" name="Changes" comment="segundo commit">
-      <change afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
+    <list default="true" id="57dbed44-2300-46d3-8a5f-8784a93efd51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex83.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +28,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="tay" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/emoji/__init__.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2gTJlyL5BpmjTNhMyWiJC7lHnFU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2lzDRSIdCyMnXpZ3AosfVAggrva" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -64,86 +44,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.__init__.executor": "Run",
-    "Python.aula9.executor": "Run",
-    "Python.curso em video.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex005.executor": "Run",
-    "Python.ex013.executor": "Run",
-    "Python.ex014.executor": "Run",
-    "Python.ex015.executor": "Run",
-    "Python.ex016.executor": "Run",
-    "Python.ex017.executor": "Run",
-    "Python.ex018.executor": "Run",
-    "Python.ex019.executor": "Run",
-    "Python.ex020.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex022.executor": "Run",
-    "Python.ex023.executor": "Run",
-    "Python.ex024.executor": "Run",
-    "Python.ex025.executor": "Run",
-    "Python.ex026.executor": "Run",
-    "Python.ex027.executor": "Run",
-    "Python.ex028.executor": "Run",
-    "Python.ex029.executor": "Run",
-    "Python.ex030.executor": "Run",
-    "Python.ex031.executor": "Run",
-    "Python.ex032.executor": "Run",
-    "Python.ex033.executor": "Run",
-    "Python.ex036.executor": "Run",
-    "Python.ex039.executor": "Run",
-    "Python.ex040.executor": "Run",
-    "Python.ex041.executor": "Run",
-    "Python.ex042.executor": "Run",
-    "Python.ex043.executor": "Run",
-    "Python.ex044.executor": "Run",
-    "Python.ex045.executor": "Run",
-    "Python.ex046.executor": "Run",
-    "Python.ex047.executor": "Run",
-    "Python.ex048.executor": "Run",
-    "Python.ex049.executor": "Run",
-    "Python.ex050.executor": "Run",
-    "Python.ex051.executor": "Run",
-    "Python.ex052.executor": "Run",
-    "Python.ex053.executor": "Run",
-    "Python.ex054.executor": "Run",
-    "Python.ex055.executor": "Run",
-    "Python.ex056.executor": "Run",
-    "Python.ex057.executor": "Run",
-    "Python.ex058.executor": "Run",
-    "Python.ex060.executor": "Run",
-    "Python.ex061.executor": "Run",
-    "Python.ex062.executor": "Run",
-    "Python.ex063.executor": "Run",
     "Python.ex064.executor": "Run",
-    "Python.ex065.executor": "Run",
-    "Python.ex066.executor": "Run",
-    "Python.ex067.executor": "Run",
-    "Python.ex068.executor": "Run",
-    "Python.ex069.executor": "Run",
-    "Python.ex070.executor": "Run",
-    "Python.ex071.executor": "Run",
-    "Python.ex072.executor": "Run",
-    "Python.ex073.executor": "Run",
-    "Python.ex074.executor": "Run",
-    "Python.ex075.executor": "Run",
-    "Python.ex076.executor": "Run",
-    "Python.ex077.executor": "Run",
-    "Python.ex37.executor": "Run",
-    "Python.ex59.executor": "Run",
-    "Python.ex70.executor": "Run",
+    "Python.ex079.executor": "Run",
+    "Python.ex080.executor": "Run",
+    "Python.ex082.executor": "Run",
+    "Python.ex084.executor": "Run",
+    "Python.ex78.executor": "Run",
+    "Python.ex83.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowRun.ShowToolbar": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/tayan/PycharmProjects/pythonProject",
-    "settings.editor.selected.configurable": "project.scopes"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\tayan\PycharmProjects\pythonProject" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -154,62 +65,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fbe9e167-c41f-4cca-9af9-86cdef2eddfa" name="Changes" comment="" />
-      <created>1715715788427</created>
+      <changelist id="57dbed44-2300-46d3-8a5f-8784a93efd51" name="Changes" comment="" />
+      <created>1726174002945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715715788427</updated>
+      <updated>1726174002945</updated>
     </task>
-    <task id="LOCAL-00001" summary="primeiro commit">
-      <option name="closed" value="true" />
-      <created>1719266230527</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1719266230527</updated>
-    </task>
-    <task id="LOCAL-00002" summary="segundo commit">
-      <option name="closed" value="true" />
-      <created>1719266566371</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1719266566371</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="primeiro commit" />
-    <MESSAGE value="segundo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="segundo commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ex043.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
